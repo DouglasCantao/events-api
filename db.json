@@ -1,0 +1,37 @@
+{
+    "data": [
+    {
+       "id": 5928101,
+       "category": "animal welfare",
+       "title": "Cat Adoption Day",
+       "description": "Find your new feline friend at this event.",
+       "location": "Meow Town",
+       "date": "January 28, 2022",
+       "time": "12:00",
+       "petsAllowed": true,
+       "organizer": "Kat Laydee"
+    },
+    {
+       "id": 5928102,
+       "category": "animal welfare",
+       "title": "Dog Adoption Day",
+       "description": "Find your new canine friend at this event.",
+       "location": "Woof Town",
+       "date": "January 29, 2022",
+       "time": "12:00",
+       "petsAllowed": true,
+       "organizer": "Doggo Dude"
+    },
+    {
+       "id": 5928103,
+       "category": "Party",
+       "title": "Party Lá em Casa",
+       "description": "Lets party all night long!",
+       "location": "Hop Town",
+       "date": "January 30, 2022",
+       "time": "12:00",
+       "petsAllowed": true,
+       "organizer": "Unknown"
+    }
+ ]
+}
